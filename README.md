@@ -8,7 +8,7 @@ This project provides a Python-based tool for lexical and semantic analysis of s
 
 2. **Symbol Table**: Maintains a symbol table to store information about variables, constants and their corresponding memory locations. This table enhances the analysis process and aids in error detection.
 
-The project provides a foundation for building more advanced compilers, interpreters, or code analysis tools.
+The project provides a foundation for building more advanced compilers, interpreters or code analysis tools.
 
 
 
